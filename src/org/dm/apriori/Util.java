@@ -1,5 +1,4 @@
-/*@author : sukanya moorthy
- *@version :1.0
+/*@version :1.0
  * 
  * Util contains all the required functions used in calculating Apriori.
  *
