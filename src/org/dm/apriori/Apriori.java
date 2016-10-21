@@ -1,5 +1,4 @@
-/*@author : sukanya moorthy
- *@version :1.0
+/*@version :1.0
  * 
  * Class represents a Gene .
  * Each gene is represented by number of sample_id's it belongs
