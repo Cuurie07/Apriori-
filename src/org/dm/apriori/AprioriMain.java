@@ -1,5 +1,4 @@
-/*@author : sukanya moorthy
- *@version :1.0
+/*@version :1.0
  *
  *Function outputs the association rules based on query.
  *Association rules are built based on Apriori function logic
